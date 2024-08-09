@@ -1,2 +1,2 @@
-# root-postgres-backup
+# Root-Postgres-Backup
 Applications for automating Postgres backups
