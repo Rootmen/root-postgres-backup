@@ -1,3 +1,6 @@
 [submodule "app/frontend/root-postgres-backup-frontend"]
 	path = app/frontend/root-postgres-backup-frontend
 	url = https://github.com/Rootmen/root-postgres-backup-frontend.git
+[submodule "app/backend/root-postgres-backup-backend"]
+	path = app/backend/root-postgres-backup-backend
+	url = https://github.com/Rootmen/root-postgres-backup-backend.git
